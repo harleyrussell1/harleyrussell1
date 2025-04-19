@@ -7,17 +7,29 @@ Aspiring IT professional with a strong foundation in system administration, netw
 Projects & Labs
 
 Explore my repositories to view detailed documentation and screenshots for each lab:
+
 	•	Azure Virtual Network Traffic Observation Lab
+ 
 Analyzed network traffic using Wireshark on Azure VMs, focusing on protocols such as ICMP, SSH, DNS, and RDP.
+
 	•	osTicket Help Desk Deployment Lab
+ 
 Deployed and configured osTicket on a Windows Server to simulate real-world IT support scenarios.
+
 	•	Active Directory Domain Services Lab
+ 
 Configured AD DS, managing users, groups, and organizational units in a Windows Server environment.
+
 	•	File Sharing and Permissions Lab
+ 
 Set up secure file sharing using NTFS and share-level permissions tailored to departmental access needs.
+
 	•	Azure VPN Setup Lab
+ 
 Deployed a Point-to-Site VPN in Azure, demonstrating secure remote connectivity to cloud resources.
+
 	•	DNS Configuration Lab
+ 
 Managed DNS records including A and CNAME, and explored DNS caching behavior in an AD-integrated environment.
 
 ⸻
