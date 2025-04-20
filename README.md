@@ -20,7 +20,7 @@ Explore my repositories to view detailed documentation and screenshots for each 
 - [**File Sharing and Permissions Lab**](https://github.com/harleyrussell1/File-Sharing-Lab)  
   Set up secure file sharing using NTFS and share-level permissions tailored to departmental access needs.
 
-- [**Azure VPN Setup Lab**](https://github.com/harleyrussell1/Azure-VPN-Point-to-Site)  
+- [**Azure VPN Setup Lab**](https://github.com/harleyrussell1/Azure-VPN-Setup)  
   Deployed a Point-to-Site VPN in Azure, demonstrating secure remote connectivity to cloud resources.
 
 - [**DNS Configuration Lab**](https://github.com/harleyrussell1/DNS-Lab)  
