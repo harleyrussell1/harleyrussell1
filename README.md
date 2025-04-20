@@ -11,7 +11,7 @@ Explore my repositories to view detailed documentation and screenshots for each 
 - [**Azure Virtual Network Traffic Observation Lab**](https://github.com/harleyrussell1/Azure-Virtual-Network-Traffic-Observation-Lab)  
   Analyzed network traffic using Wireshark on Azure VMs, focusing on protocols such as ICMP, SSH, DNS, and RDP.
 
-- [**osTicket Help Desk Deployment Lab**](https://github.com/harleyrussell1/osTicket-Help-Desk-Lab)  
+- [**osTicket Help Desk Deployment Lab**](https://github.com/harleyrussell1/osTicket-Lab)  
   Deployed and configured osTicket on a Windows Server to simulate real-world IT support scenarios.
 
 - [**Active Directory Domain Services Lab**](https://github.com/harleyrussell1/Active-Directory-Lab)  
