@@ -17,7 +17,7 @@ Explore my repositories to view detailed documentation and screenshots for each 
 - [**Active Directory Domain Services Lab**](https://github.com/harleyrussell1/Active-Directory-Lab)  
   Configured AD DS, managing users, groups, and organizational units in a Windows Server environment.
 
-- [**File Sharing and Permissions Lab**](https://github.com/harleyrussell1/File-Sharing-Lab)  
+- [**File Sharing and Permissions Lab**](https://github.com/harleyrussell1/Network-Shares-Permissions-Lab)  
   Set up secure file sharing using NTFS and share-level permissions tailored to departmental access needs.
 
 - [**Azure VPN Setup Lab**](https://github.com/harleyrussell1/Azure-VPN-Setup)  
