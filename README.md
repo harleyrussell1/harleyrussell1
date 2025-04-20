@@ -23,7 +23,7 @@ Explore my repositories to view detailed documentation and screenshots for each 
 - [**Azure VPN Setup Lab**](https://github.com/harleyrussell1/Azure-VPN-Setup)  
   Deployed a Point-to-Site VPN in Azure, demonstrating secure remote connectivity to cloud resources.
 
-- [**DNS Configuration Lab**](https://github.com/harleyrussell1/DNS-Lab)  
+- [**DNS Configuration Lab**](https://github.com/harleyrussell1/DNS-Configuration-Lab)  
   Managed DNS records including A and CNAME, and explored DNS caching behavior in an AD-integrated environment.
 
 ---
