@@ -8,7 +8,7 @@ Aspiring IT professional with a strong foundation in system administration, netw
 
 Explore my repositories to view detailed documentation and screenshots for each lab:
 
-- [**Azure Virtual Network Traffic Observation Lab**]([https://github.com/harleyrussell1/Azure-Virtual-Network-Lab](https://github.com/harleyrussell1/Azure-Virtual-Network-Traffic-Observation-Lab))  
+- [**Azure Virtual Network Traffic Observation Lab**](https://github.com/harleyrussell1/Azure-Virtual-Network-Traffic-Observation-Lab)  
   Analyzed network traffic using Wireshark on Azure VMs, focusing on protocols such as ICMP, SSH, DNS, and RDP.
 
 - [**osTicket Help Desk Deployment Lab**](https://github.com/harleyrussell1/osTicket-Help-Desk-Lab)  
