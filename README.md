@@ -1,6 +1,6 @@
 # Harley Russell
 
-IT professional with a strong foundation in system administration, networking, and cybersecurity. My hands-on experience includes completing the CourseCareers IT Program and the “Working as an IT Support Technician” certification from Alison.com. I currently serve in the U.S. Army as a Cryptologic Linguist with proficiency in Farsi (3/2+/2+) and Dari (2+/2+), bringing analytical skills and discipline to the tech field. I am actively pursuing the CompTIA A+ certification and enrolled in Western Governors University’s Cybersecurity program (expected graduation: 2027).
+IT professional with a strong foundation in system administration, networking, and cybersecurity. My hands-on experience includes completing the CourseCareers IT Program, the “Working as an IT Support Technician” certification from Alison, and the Department of the Army CompTIA Sec+ SYO-701 certification. I served in the U.S. Army as a Cryptologic Linguist with proficiency in Farsi (3/2+/2+) and Dari (2+/2+), bringing analytical skills and discipline to the tech field. I am actively pursuing the CompTIA A+ certification and enrolled in Western Governors University’s Cybersecurity program (expected graduation: 2027).
 
 ---
 
